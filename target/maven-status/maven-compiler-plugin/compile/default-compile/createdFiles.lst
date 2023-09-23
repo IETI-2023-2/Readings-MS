@@ -1,1 +1,7 @@
-org/example/Main.class
+edu/escuelaing/controller/ReadingsController.class
+edu/escuelaing/repository/ReadingsRepository.class
+edu/escuelaing/config/SpringFoxConfig.class
+edu/escuelaing/ReadingsMSApplication.class
+edu/escuelaing/service/ReadingsService.class
+edu/escuelaing/service/impl/ReadingsServiceImpl.class
+edu/escuelaing/entity/Readings.class
