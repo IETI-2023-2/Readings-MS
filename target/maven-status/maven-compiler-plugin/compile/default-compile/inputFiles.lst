@@ -1,1 +1,7 @@
-/Users/juanca/Documents/Proyectos/AppContadores/Users-MS/src/main/java/org/example/Main.java
+/Users/juanca/Documents/Proyectos/AppContadores/Users-MS/src/main/java/edu/escuelaing/controller/ReadingsController.java
+/Users/juanca/Documents/Proyectos/AppContadores/Users-MS/src/main/java/edu/escuelaing/service/impl/ReadingsServiceImpl.java
+/Users/juanca/Documents/Proyectos/AppContadores/Users-MS/src/main/java/edu/escuelaing/service/ReadingsService.java
+/Users/juanca/Documents/Proyectos/AppContadores/Users-MS/src/main/java/edu/escuelaing/repository/ReadingsRepository.java
+/Users/juanca/Documents/Proyectos/AppContadores/Users-MS/src/main/java/edu/escuelaing/config/SpringFoxConfig.java
+/Users/juanca/Documents/Proyectos/AppContadores/Users-MS/src/main/java/edu/escuelaing/ReadingsMSApplication.java
+/Users/juanca/Documents/Proyectos/AppContadores/Users-MS/src/main/java/edu/escuelaing/entity/Readings.java
